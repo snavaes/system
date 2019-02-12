@@ -1,0 +1,22 @@
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Lato Light}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\linespread{1.05}
+
+\makeatletter
+\renewcommand{\maketitle}{
+\begin{flushright}
+{\LARGE\@title}
+
+\vspace{50pt}
+
+{\large\@author}
+\\\@date 
+\vspace{40pt}
+\end{flushright}
+}
+\renewcommand{\@seccntformat}[1]{}
+\makeatother

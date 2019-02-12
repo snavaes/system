@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: essay.aux
+The style file: agsm.bst
+Database file #1: biblio.bib
+Warning--entry type for "Barrett" isn't style-file defined
+--line 40 of file biblio.bib
+Warning--entry type for "ITBBerlin" isn't style-file defined
+--line 125 of file biblio.bib
+Warning--entry type for "Eurocontrol2017" isn't style-file defined
+--line 133 of file biblio.bib
+Warning--entry type for "Eurocontrol2018" isn't style-file defined
+--line 141 of file biblio.bib
+Warning--entry type for "Ryanair" isn't style-file defined
+--line 150 of file biblio.bib
+Warning--entry type for "Campaign" isn't style-file defined
+--line 158 of file biblio.bib
+Warning--entry type for "Christensen2015" isn't style-file defined
+--line 166 of file biblio.bib
+You've used 15 entries,
+            2909 wiz_defined-function locations,
+            743 strings with 7010 characters,
+and the built_in function-call counts, 39539 in all, are:
+= -- 6270
+> -- 475
+< -- 0
++ -- 2841
+- -- 140
+* -- 3193
+:= -- 8369
+add.period$ -- 21
+call.type$ -- 15
+change.case$ -- 209
+chr.to.int$ -- 15
+cite$ -- 15
+duplicate$ -- 204
+empty$ -- 440
+format.name$ -- 190
+if$ -- 7021
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 60
+num.names$ -- 150
+pop$ -- 94
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 165
+stack$ -- 0
+substring$ -- 8602
+swap$ -- 26
+text.length$ -- 210
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 0
+while$ -- 320
+width$ -- 0
+write$ -- 197
+(There were 7 warnings)
