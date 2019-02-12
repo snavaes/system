@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2018.10.9)  7 NOV 2018 16:36
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2018.10.9)  12 FEB 2019 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -487,38 +487,46 @@ LaTeX Font Warning: Font shape `TU/LatoLight(0)/m/sc' undefined
 
 ] [2]
 File: big-model.png Graphic file (type QTm)
- <use  "big-model.png" > [3] [4]
-File: evolution-lcc-vs-tradsched.png Graphic file (type QTm)
+ <use  "big-model.png" > [3]
 
-<use  "evolution-lcc-vs-tradsched.png" > [5]
+Package natbib Warning: Citation `Droege' on page 4 undefined on input line 83.
+
+
+[4]
+File: evolution-lcc-vs-tradsched.png Graphic file (type QTm)
+ <use  "evolution-lcc-vs-tradsched.png" > [5]
 Overfull \hbox (2.25342pt too wide) in paragraph at lines 115--117
 \TU/LatoLight(0)/m/n/10.95 claims incumbents can not react because of their exi
 sting customers and share-
  []
 
 [6] (./essay.bbl [7]
-Overfull \hbox (6.5895pt too wide) in paragraph at lines 52--56
+Overfull \hbox (6.5895pt too wide) in paragraph at lines 47--51
 \TU/LatoLight(0)/m/n/10.95 URL: \TU/LatoLight(0)/m/it/10.95 https://www.eurocon
 trol.int/sites/default/files/content/documents/official-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--77
+Underfull \hbox (badness 10000) in paragraph at lines 68--72
 \TU/LatoLight(0)/m/n/10.95 URL: \TU/LatoLight(0)/m/it/10.95 https://www.campaig
 nlive.co.uk/article/superbrands-case-studies-
  []
 
-) [8] (./essay.aux)
+)
+
+Package natbib Warning: There were undefined citations.
+
+[8] (./essay.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  10645 strings out of 495038
- 256171 string characters out of 6179117
- 265232 words of memory out of 5000000
- 14420 multiletter control sequences out of 15000+600000
- 3792 words of font info for 33 fonts, out of 8000000 for 9000
+ 256219 string characters out of 6179117
+ 265192 words of memory out of 5000000
+ 14419 multiletter control sequences out of 15000+600000
+ 3800 words of font info for 34 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,5n,66p,10399b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
 
